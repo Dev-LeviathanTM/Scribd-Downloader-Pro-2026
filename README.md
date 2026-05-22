@@ -2,8 +2,15 @@
 
 ![Portada Principal](PORTADA_001.jpg)
 
-> **Descarga libros y documentos de Scribd y SlideShare de forma rápida, sencilla y sin límites.**  
-> ⚡ Sistema Enterprise en línea que te permite extraer cualquier PDF, tesis o presentación privada.
+---
+
+## 🎬 MIRA EL PROGRAMA EN ACCIÓN
+
+<div align="center">
+  <video src="PREVIEW%20DEL%20PROGRAMA.mp4" controls width="100%" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"></video>
+</div>
+
+> ⚠️ *Si el video no carga, asegúrate de que el archivo `PREVIEW DEL PROGRAMA.mp4` esté subido en la misma carpeta que este README.*
 
 ---
 
