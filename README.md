@@ -1,8 +1,6 @@
 # 📚 SCRIBD DOWNLOADER PRO 2026
 
-[![Ver demo en YouTube](PORTADA_001.jpg)](https://youtu.be/TU_ENLACE_AQUI)
-
----
+<iframe width="337" height="599" src="https://www.youtube.com/embed/2kepwLPUVzA" title="Scribd Downloader Pro V10 | Accede a Libros y Documentos en Segundos ⚡(scribd /slideshared) 🌀" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 🔥 Incluye
 
@@ -11,8 +9,6 @@
 ✅ Conversión a PDF sin marcas de agua  
 ✅ Interfaz oscura estilo hacker  
 ✅ Sin límites de velocidad ni IP  
-
----
 
 ## 💎 Planes
 
@@ -24,15 +20,11 @@
 
 ![Portada 2](PORTADA_002.jpg)
 
----
-
 ## 💬 Contacto
 
 📲 **WhatsApp:** [Click aquí](https://wa.me/51962829974)
 
 ![Portada 3](PORTADA_003.jpg)
-
----
 
 ## 🤝 Incluye
 
