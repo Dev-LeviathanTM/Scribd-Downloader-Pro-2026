@@ -1,101 +1,102 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(145deg, #0a0a0a 0%, #1a1a2e 100%); padding: 40px 20px; border-radius: 20px; box-shadow: 0 0 30px rgba(0, 255, 255, 0.1);">
 
 # ⚡ SCRIBD DOWNLOADER PRO 2026
-### 📚 La herramienta definitiva para descargar libros y documentos de Scribd y SlideShare
 
+<div style="color: #00ffff; font-size: 1.2rem; margin-bottom: 20px; text-shadow: 0 0 10px rgba(0, 255, 255, 0.3);">
+  🚀 La herramienta definitiva para descargar libros y documentos de Scribd & SlideShare
 </div>
-
----
 
 ## 🎬 MÍRALO EN ACCIÓN
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=2kepwLPUVzA" target="_blank">
-    <img src="https://img.youtube.com/vi/2kepwLPUVzA/0.jpg" alt="Ver video demo" width="80%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  </a>
-  <br>
-  <sub>🟢 Haz clic en la imagen para ver el programa en funcionamiento</sub>
-</div>
-
+<a href="https://www.youtube.com/watch?v=2kepwLPUVzA" target="_blank">
+  <img src="https://img.youtube.com/vi/2kepwLPUVzA/0.jpg" alt="Ver video demo" width="80%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3); border: 2px solid #00ffff;">
+</a>
 <br>
+<span style="color: #00ffaa; font-size: 0.9rem;">▶️ Haz clic en la imagen para ver el programa en funcionamiento</span>
 
 ---
 
 ## 🔥 ¿QUÉ PUEDES HACER?
 
-<div align="center">
+<div style="color: #ffffff; font-size: 1.1rem; line-height: 1.8; background: rgba(255,255,255,0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #00ffff;">
 
-✅ **Descargas ilimitadas** desde Scribd y SlideShare  
-✅ **Extracción automática** de metadatos  
-✅ **Conversión a PDF** sin marcas de agua  
-✅ **Interfaz oscura** estilo hacker  
-✅ **Sin límites** de velocidad ni IP  
+✅ <span style="color: #00ffcc;">Descargas ilimitadas</span> desde Scribd y SlideShare  
+✅ <span style="color: #00ffcc;">Extracción automática</span> de metadatos  
+✅ <span style="color: #00ffcc;">Conversión a PDF</span> sin marcas de agua  
+✅ <span style="color: #00ffcc;">Interfaz oscura</span> estilo hacker  
+✅ <span style="color: #00ffcc;">Sin límites</span> de velocidad ni IP  
 
-</div>
-
----
-
-## 📸 VISTA PREVIA DEL SOFTWARE
-
-<div align="center">
-  <img src="PORTADA_001.jpg" width="90%" alt="Interfaz del programa" style="border-radius: 10px;">
 </div>
 
 ---
 
 ## 💎 PLANES DISPONIBLES (Pagos en Soles o Internacionales)
 
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; color: white;">
 
-| Plan | Precio | Beneficios |
-| :--- | :--- | :--- |
-| 📅 **1 Mes (Cliente)** | **S/10** | Acceso completo por 30 días |
-| ♾️ **Vitalicio (Cliente)** | **S/50** | Acceso ilimitado de por vida |
-| 🔥 **Revendedor (3+)** | **S/4 c/u** | Panel propio para generar licencias |
+<div style="background: rgba(255,255,255,0.05); padding: 15px 25px; border-radius: 10px; border: 1px solid #ffaa00; min-width: 150px;">
+  📅 <span style="color: #ffaa00;">1 Mes (Cliente)</span><br>
+  <span style="font-size: 1.3rem; font-weight: bold;">S/10</span>
+</div>
+
+<div style="background: rgba(255,255,255,0.05); padding: 15px 25px; border-radius: 10px; border: 1px solid #ff00ff; min-width: 150px;">
+  ♾️ <span style="color: #ff00ff;">Vitalicio (Cliente)</span><br>
+  <span style="font-size: 1.3rem; font-weight: bold;">S/50</span>
+</div>
+
+<div style="background: rgba(255,255,255,0.05); padding: 15px 25px; border-radius: 10px; border: 1px solid #ff4444; min-width: 150px;">
+  🔥 <span style="color: #ff4444;">Revendedor (3+)</span><br>
+  <span style="font-size: 1.3rem; font-weight: bold;">S/4 c/u</span>
+</div>
 
 </div>
 
-<div align="center">
-  <img src="PORTADA_002.jpg" width="90%" alt="Planes de pago" style="border-radius: 10px;">
-</div>
+<br>
+
+<img src="PORTADA_002.jpg" width="90%" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);">
 
 ---
 
 ## 🌍 PAGOS INTERNACIONALES
 
-¿No eres de Perú?  
-Puedes comprar desde **cualquier país** mediante **Hotmart** o **PayPal**.
+<div style="color: #dddddd; font-size: 1rem; background: rgba(255,255,255,0.05); padding: 15px; border-radius: 10px;">
+  🌐 ¿No eres de Perú?<br>
+  Puedes comprar desde <span style="color: #ffcc00;">cualquier país</span> mediante <span style="color: #ffcc00;">Hotmart</span> o <span style="color: #ffcc00;">PayPal</span>.
+</div>
 
 ---
 
 ## 💬 ¿CÓMO COMPRAR?
 
-<div align="center">
-  <img src="PORTADA_003.jpg" width="90%" alt="Contacto" style="border-radius: 10px;">
-</div>
+<img src="PORTADA_003.jpg" width="90%" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);">
 
-<br>
+<br><br>
 
-<div align="center">
-  <a href="https://wa.me/51962829974" style="display: inline-block; padding: 12px 24px; background-color: #25D366; color: white; text-decoration: none; border-radius: 30px; font-weight: bold; font-size: 1.2rem;">📲 ¡Escríbeme ahora por WhatsApp!</a>
-</div>
+<a href="https://wa.me/51962829974" style="display: inline-block; padding: 15px 30px; background: linear-gradient(145deg, #25D366, #128C7E); color: white; text-decoration: none; border-radius: 50px; font-weight: bold; font-size: 1.3rem; box-shadow: 0 0 20px rgba(37, 211, 102, 0.4);">
+  📲 ¡Escríbeme ahora por WhatsApp!
+</a>
 
 ---
 
 ## 🤝 ¿QUÉ INCLUYE TU COMPRA?
 
-✅ **Instalación** paso a paso en tu laptop  
-✅ **Configuración** del sistema de licencias  
-✅ **Panel de control** para revendedores (si aplica)  
-✅ **Soporte técnico** por si algo falla  
+<div style="color: #ffffff; font-size: 1.1rem; line-height: 1.8; background: rgba(255,255,255,0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #ffcc00;">
+
+✅ <span style="color: #ffcc00;">Instalación</span> paso a paso en tu laptop  
+✅ <span style="color: #ffcc00;">Configuración</span> del sistema de licencias  
+✅ <span style="color: #ffcc00;">Panel de control</span> para revendedores (si aplica)  
+✅ <span style="color: #ffcc00;">Soporte técnico</span> por si algo falla  
+
+</div>
 
 ---
 
-> ⚠️ **AVISO IMPORTANTE:** Este repositorio contiene únicamente el **ejecutable compilado** y la documentación. El código fuente es **privado** para proteger el sistema de licencias.
+> ⚠️ <span style="color: #ff6666;">AVISO IMPORTANTE:</span> Este repositorio contiene únicamente el <span style="color: #00ffff;">ejecutable compilado</span> y la documentación. El código fuente es <span style="color: #ff6666;">privado</span> para proteger el sistema de licencias.
 
 ---
 
-<div align="center">
-  <br>
-  <sub>Desarrollado con ❤️ para la comunidad</sub>
+<div style="color: #666; font-size: 0.8rem; margin-top: 30px;">
+  🚀 Desarrollado con ❤️ para la comunidad
+</div>
+
 </div>
