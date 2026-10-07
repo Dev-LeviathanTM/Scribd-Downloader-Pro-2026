@@ -2,9 +2,9 @@
 
 # ⚡ SCRIBD DOWNLOADER PRO 2026
 
-### 🚀 Descarga libros de Scribd, presentaciones de SlideShare y contenido de Everand en **PDF y PPTX editables**
+### 🚀 Descarga libros de Scribd y presentaciones de SlideShare en **PDF y PPTX editables**
 
-![Versión](https://img.shields.io/badge/version-16.0-00ffff?style=for-the-badge&logo=windows&logoColor=white)
+![Versión](https://img.shields.io/badge/version-16.2-00ffff?style=for-the-badge&logo=windows&logoColor=white)
 ![Release](https://img.shields.io/github/v/release/Dev-LeviathanTM/Scribd-Downloader-Pro-2026?style=for-the-badge&label=release&color=ff00ff)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-brightgreen?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/windows-10%20%2F%2011-0078d6?style=for-the-badge&logo=windows&logoColor=white)
@@ -14,7 +14,7 @@
 
 <img src="screenshots/interfaz-principal.jpg" width="85%" alt="Interfaz de SCRIBD DOWNLOADER PRO: descarga libros de Scribd y presentaciones de SlideShare a PDF y PPTX" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
 
-<sub>🖥️ Interfaz principal de SCRIBD DOWNLOADER PRO v16.0 — modo oscuro neon, 100% en español</sub>
+<sub>🖥️ Interfaz principal de SCRIBD DOWNLOADER PRO v16.2 — modo oscuro neon, 100% en español</sub>
 
 </div>
 
@@ -74,7 +74,7 @@ Ideal si usas una PC prestada, un USB o no quieres permisos de administrador.
 
 ### Paso 1 — Copia la URL del documento
 
-Abre el libro en **Scribd**, la presentación en **SlideShare** o el título en **Everand** con tu navegador y **copia la dirección de la barra de URL** (clic derecho → Copiar, o `Ctrl + C`).
+Abre el libro en **Scribd** o la presentación en **SlideShare** con tu navegador y **copia la dirección de la barra de URL** (clic derecho → Copiar, o `Ctrl + C`).
 
 <div align="center">
   <img src="screenshots/paso-copiar-url.jpg" width="85%" alt="Copiar la URL de una presentación de SlideShare desde el navegador para convertirla a PDF y PPTX" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
@@ -104,11 +104,11 @@ SlideShare protege su CDN. Si el programa detecta una pantalla de verificación,
 
 ## 🔥 ¿QUÉ PUEDE HACER?
 
-SCRIBD DOWNLOADER PRO es la herramienta definitiva para **descargar documentos de Scribd**, **convertir SlideShare a PDF y PPTX** y **guardar libros de Everand** en tu PC, sin límites y sin marcas de agua.
+SCRIBD DOWNLOADER PRO es la herramienta definitiva para **descargar documentos de Scribd** y **convertir SlideShare a PDF y PPTX** en tu PC, sin límites y sin marcas de agua.
 
 <div style="background-color: #f6f8fa; padding: 15px; border-radius: 8px; border-left: 5px solid #00ccff;">
 
-✅ **Descargas ilimitadas** desde Scribd, SlideShare y Everand
+✅ **Descargas ilimitadas** desde Scribd y SlideShare
 ✅ **SlideShare → PPTX editable**: cada presentación se entrega en **PDF + PowerPoint (.pptx)** en un solo pase
 ✅ **Extracción automática de metadatos**: título, autor, portada, valoración real y número de páginas
 ✅ **Conversión a PDF** sin marcas de agua, verificada página por página
@@ -235,7 +235,7 @@ Es normal: los programas independientes sin certificado comercial activan el Sma
 
 <div align="center">
 
-**🔎 Términos de búsqueda:** *descargar libros de Scribd* · *Scribd downloader* · *SlideShare a PDF* · *descargar presentaciones de SlideShare* · *SlideShare a PowerPoint* · *descargar Everand* · *bajar documentos de Scribd gratis* · *convertir SlideShare a PPTX* · *SCRIBD DOWNLOADER PRO 2026* · *descargar Scribd gratis Windows* · *pasar SlideShare a PowerPoint* · *lector de libros en PDF*
+**🔎 Términos de búsqueda:** *descargar libros de Scribd* · *Scribd downloader* · *SlideShare a PDF* · *descargar presentaciones de SlideShare* · *SlideShare a PowerPoint* · *bajar documentos de Scribd gratis* · *convertir SlideShare a PPTX* · *SCRIBD DOWNLOADER PRO 2026* · *descargar Scribd gratis Windows* · *pasar SlideShare a PowerPoint* · *lector de libros en PDF*
 
 🚀 Desarrollado con ❤️ para la comunidad hispanohablante
 
