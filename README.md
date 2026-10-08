@@ -4,7 +4,7 @@
 
 ### 🚀 Descarga libros de Scribd y presentaciones de SlideShare en **PDF y PPTX editables**
 
-![Versión](https://img.shields.io/badge/version-16.3.4-00ffff?style=for-the-badge&logo=windows&logoColor=white)
+![Versión](https://img.shields.io/badge/version-16.3.5-00ffff?style=for-the-badge&logo=windows&logoColor=white)
 ![Release](https://img.shields.io/github/v/release/Dev-LeviathanTM/Scribd-Downloader-Pro-2026?style=for-the-badge&label=release&color=ff00ff)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-brightgreen?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/windows-10%20%2F%2011-0078d6?style=for-the-badge&logo=windows&logoColor=white)
@@ -14,7 +14,7 @@
 
 <img src="screenshots/interfaz-principal.jpg" width="85%" alt="Interfaz de SCRIBD DOWNLOADER PRO: descarga libros de Scribd y presentaciones de SlideShare a PDF y PPTX" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
 
-<sub>🖥️ Interfaz principal de SCRIBD DOWNLOADER PRO v16.3.4 — modo oscuro neon, 100% en español</sub>
+<sub>🖥️ Interfaz principal de SCRIBD DOWNLOADER PRO v16.3.5 — modo oscuro neon, 100% en español</sub>
 
 </div>
 
