@@ -1,242 +1,272 @@
 <div align="center">
 
-# ⚡ SCRIBD DOWNLOADER PRO 2026
+# 📚 SCRIBD DOWNLOADER PRO 2026
 
-### 🚀 Descarga libros de Scribd y presentaciones de SlideShare en **PDF y PPTX editables**
+### ⚡ Descarga libros de **Scribd** y presentaciones de **SlideShare** en **PDF y PPTX editables** — para **Windows 10 y 11**
 
-![Versión](https://img.shields.io/badge/version-16.3.18-00ffff?style=for-the-badge&logo=windows&logoColor=white)
+![Versión](https://img.shields.io/badge/version-16.3.19-00ffff?style=for-the-badge&logo=windows&logoColor=white)
 ![Release](https://img.shields.io/github/v/release/Dev-LeviathanTM/Scribd-Downloader-Pro-2026?style=for-the-badge&label=release&color=ff00ff)
-![Licencia](https://img.shields.io/badge/licencia-MIT-brightgreen?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/windows-10%20%2F%2011-0078d6?style=for-the-badge&logo=windows&logoColor=white)
+![Español](https://img.shields.io/badge/idioma-Espa%C3%B1ol-00ff66?style=for-the-badge)
+![Licencia](https://img.shields.io/badge/licencia-MIT-brightgreen?style=for-the-badge)
 ![WhatsApp](https://img.shields.io/badge/soporte-WhatsApp%2024%2F7-25D366?style=for-the-badge&logo=whatsapp)
 
-**📥 [DESCARGAR ÚLTIMA VERSIÓN](https://github.com/Dev-LeviathanTM/Scribd-Downloader-Pro-2026/releases/latest)** · **[🎬 VER DEMO EN VIDEO](https://www.youtube.com/watch?v=2kepwLPUVzA)** · **[💬 COMPRAR LICENCIA](https://wa.me/51962829974)**
+**📥 [DESCARGAR ÚLTIMA VERSIÓN](https://github.com/Dev-LeviathanTM/Scribd-Downloader-Pro-2026/releases/latest)** · **🎬 [VER DEMO EN VIDEO](https://www.youtube.com/watch?v=2kepwLPUVzA)** · **💳 [COMPRAR LICENCIA](https://wa.me/51962829974)**
 
-<img src="screenshots/interfaz-principal.jpg" width="85%" alt="Interfaz de SCRIBD DOWNLOADER PRO: descarga libros de Scribd y presentaciones de SlideShare a PDF y PPTX" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
+<img src="screenshots/interfaz-principal-biblioteca.png" width="88%" alt="Interfaz principal de SCRIBD DOWNLOADER PRO: descargador de Scribd y SlideShare a PDF y PPTX para Windows 10 y 11" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
 
-<sub>🖥️ Interfaz principal de SCRIBD DOWNLOADER PRO v16.3.18 — modo oscuro neon, 100% en español</sub>
+<sub>🖥️ Interfaz principal v16.3.19 — modo oscuro neon, 100% en español, biblioteca con portadas verificadas</sub>
 
 </div>
 
 ---
 
-## 📦 INSTALACIÓN — GUÍA PARA PRINCIPIANTES
+## 📌 ¿Qué es SCRIBD DOWNLOADER PRO?
 
-Elige **una sola** de estas dos formas. No necesitas saber de programación: solo sigue los pasos en orden.
+**SCRIBD DOWNLOADER PRO** es la aplicación de escritorio más completa para **descargar documentos de Scribd** y **convertir presentaciones de SlideShare a PDF y PowerPoint (PPTX) editable** en tu PC con **Windows 10 o Windows 11**. Sin límites, sin marcas de agua, con metadatos reales (portada, autor, páginas, valoración) y verificación página por página.
 
-### ⚙️ OPCIÓN A — Instalador (recomendada para la mayoría)
+- 📕 **Scribd → PDF**: libros, manuales, tesis y documentos completos.
+- 📊 **SlideShare → PDF + PPTX**: cada presentación se entrega en dos formatos en un solo pase.
+- 🧠 **Motor inteligente**: detecta automáticamente si el enlace es de Scribd o SlideShare y elige la ruta de extracción óptima.
+- ⚡ **Cola de procesos en paralelo**: pega varias URLs a la vez y descarga todo en segundo plano.
+- 🔒 **Modo invisible**: Chrome trabaja oculto; tú ves solo la interfaz del programa.
+- 🇪🇸 **100% en español**: interfaz, mensajes y soporte humano por WhatsApp.
 
-Ideal si quieres un acceso en el escritorio y que el programa se actualice solo.
-
-1. **Abre la página de descargas**: entra a [Releases oficiales](https://github.com/Dev-LeviathanTM/Scribd-Downloader-Pro-2026/releases/latest).
-2. **Descarga el instalador**: en la sección *Assets*, haz clic en **`Scribd_Downloader_Pro_Setup_v16.0.exe`**.
-3. **Ejecuta el archivo**: ve a tu carpeta de *Descargas* y **doble clic** sobre el `.exe`.
-4. **Permite la app** si Windows muestra el aviso *"Usuario de Windows no reconoce esta app"* → haz clic en **Sí** / **Más información** → **Ejecutar de todos modos**. (Es normal: el programa es nuevo y aún no tiene millones de descargas.)
-5. **Sigue el asistente**: pulsa **Siguiente → Siguiente → Instalar → Finalizar**.
-6. **Abre el programa**: aparecerá el ícono **SCRIBD DOWNLOADER PRO** en tu escritorio o en el menú Inicio. ¡Listo!
-
-### 🗜️ OPCIÓN B — Versión Portable (sin instalar nada)
-
-Ideal si usas una PC prestada, un USB o no quieres permisos de administrador.
-
-1. **Abre la página de descargas**: entra a [Releases oficiales](https://github.com/Dev-LeviathanTM/Scribd-Downloader-Pro-2026/releases/latest).
-2. **Descarga el ZIP**: en la sección *Assets*, haz clic en **`SCRIBD_DOWNLOADER_PRO_v16.0_PORTABLE.zip`**.
-3. **Descomprime el ZIP**: clic derecho sobre el archivo → **Extraer todo…** → **Extraer**.
-4. **Entra a la carpeta** `SCRIBD_DOWNLOADER_PRO_v16.0_PORTABLE`.
-5. **Ejecuta el programa**: **doble clic** en **`ScribdDownloader.exe`**.
-6. *(Opcional)* Crea un acceso directo: clic derecho en el `.exe` → **Enviar a** → **Escritorio (crear acceso directo)**.
-
-> 💡 **¿Cuál elijo?** Si es tu PC personal → **Opción A**. Si es una PC temporal o un pendrive → **Opción B**.
-
-### 🔑 Después de instalar: activa tu licencia (o prueba el DEMO gratis)
-
-1. Abre el programa. Verás la pantalla **INGRESE LLAVE MAESTRA**.
-2. **¿Tienes licencia?** Pega tu llave y pulsa **ACTIVAR LICENCIA**.
-3. **¿Aún no la tienes?** Pulsa **PROBAR DEMO** para obtener **3 descargas gratis** (protegido contra abusos con la huella de tu equipo), o compra desde [WhatsApp](https://wa.me/51962829974) / [Hotmart o PayPal](https://wa.me/51962829974).
-
-> 🛡️ La activación es **segura (RS256)**: tu clave se verifica contra el servidor oficial y queda ligada a tu PC.
+**Índice:**
+[✨ Novedidades](#-novedades-v16319) ·
+[📥 Instalación](#-instalación--guía-para-principiantes) ·
+[📖 Cómo usar](#-cómo-descargar-paso-a-paso-con-capturas) ·
+[💰 Planes](#-planes-disponibles) ·
+[🛡️ Seguridad](#️-seguridad-y-licencias) ·
+[❓ FAQ](#-preguntas-frecuentes-faq) ·
+[🖥️ Requisitos](#%EF%B8%8F-requisitos-del-sistema) ·
+[🛠️ Tecnologías](#️-tecnologías)
 
 ---
 
-## 🎬 MÍRALO EN ACCIÓN
+## ✨ Novedades v16.3.19
+
+- 🖼️ **Vista Grid solo portadas** — la biblioteca en modo cuadrícula muestra únicamente las portadas en gran formato: toca cualquier portada para abrir la vista previa del documento.
+- ✅ **Instalador inteligente Win10/11** — el instalador declara `MinVersion 10.0`: protege tu PC rechazando sistemas no compatibles e instala WebView2 en silencio si falta.
+- 🎨 **Interfaz más limpia** — se eliminaron todas las animaciones de luz en bucle del encabezado, botones y modales.
+- 💬 **Ícono de WhatsApp inteligente** — parpadea según el estado de tu licencia (activa / por vencer / sin licencia).
+- 🔄 **RENOVAR lleva directo a los planes** — un clic en el botón del encabezado y ves precios y cantidades al instante.
+
+<img src="screenshots/vista-grid-solo-portadas.png" width="88%" alt="Vista Grid de SCRIBD DOWNLOADER PRO mostrando solo las portadas de los libros descargados" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
+
+<sub>🖼️ Nueva vista Grid: solo las portadas de tus libros en gran tamaño</sub>
+
+---
+
+## 📥 Instalación — Guía para principiantes
+
+Elige **una sola** de estas dos formas. No necesitas saber de programación.
+
+### ✅ OPCIÓN A — Instalador (recomendada)
+
+1. Entra a la página de **[Descargas oficiales](https://github.com/Dev-LeviathanTM/Scribd-Downloader-Pro-2026/releases/latest)**.
+2. En la sección *Assets*, descarga el archivo **`Scribd_Downloader_Pro_Setup_v16.3.19_x64.exe`**.
+3. Haz **doble clic** sobre el `.exe` descargado.
+4. Si Windows muestra el aviso de SmartScreen: **Más información → Ejecutar de todos modos** (es normal en apps independientes).
+5. Sigue el asistente: **Siguiente → Siguiente → Instalar → Finalizar**.
+6. ¡Listo! El ícono **SCRIBD DOWNLOADER PRO** aparece en tu escritorio.
+
+> 💡 El instalador requiere **Windows 10 / 11 (64 bits)** y instala automáticamente el motor **WebView2** si tu PC no lo tiene.
+
+### 📁 OPCIÓN B — Portable (sin instalar nada)
+
+Ideal para USB, PC prestada o sin permisos de administrador.
+
+1. En la página de Releases, descarga **`SCRIBD_DOWNLOADER_PRO_v16.3.19_PORTABLE.zip`**.
+2. Clic derecho → **Extraer todo… → Extraer**.
+3. Entra a la carpeta extraída y ejecuta **`SCRIBD_DOWNLOADER_PRO_v16.3.19.exe`**.
+4. *(Opcional)* Clic derecho → **Enviar a → Escritorio (crear acceso directo)**.
+
+> 🤔 **¿Cuál elijo?** Si es tu PC personal → **Opción A**. Si es una PC temporal o pendrive → **Opción B**.
+
+### 🔑 Después de instalar: licencia o DEMO gratis
+
+1. Abre el programa: verás la pantalla **INGRESE LLAVE MAESTRA**.
+2. **¿Tienes licencia?** Pega tu llave y pulsa **ACTIVAR LICENCIA**.
+3. **¿Aún no la tienes?** Pulsa **PROBAR DEMO** para **3 descargas gratis** (protegido contra abusos con la huella de tu equipo) o compra desde [WhatsApp](https://wa.me/51962829974).
+
+<img src="screenshots/acerca-de-progreso.png" width="88%" alt="Panel Acerca de de SCRIBD DOWNLOADER PRO: licencia RS256 segura, motor Chrome + Node.js y demo con 3 descargas gratis" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
+
+<sub>🔐 Acerca de: licencia RS256 verificada contra servidor, demo anti-abuso con huella de equipo</sub>
+
+---
+
+## 🎬 Míralo en acción
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=2kepwLPUVzA" target="_blank">
-    <img src="https://img.youtube.com/vi/2kepwLPUVzA/0.jpg" alt="Video demo: descargar libros de Scribd y presentaciones de SlideShare con SCRIBD DOWNLOADER PRO" width="80%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+    <img src="https://img.youtube.com/vi/2kepwLPUVzA/0.jpg" alt="Video demo: cómo descargar libros de Scribd y presentaciones de SlideShare con SCRIBD DOWNLOADER PRO" width="80%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
   </a>
-  <br>
-  <sub>▶️ Haz clic en la imagen para ver el programa en funcionamiento</sub>
+  <br><sub>🎬 Haz clic en la imagen para ver el programa en funcionamiento</sub>
+  <br><sub>📼 <a href="PREVIEW%20DEL%20PROGRAMA.mp4">Ver video local del programa</a></sub>
 </div>
 
 ---
 
-## 🚀 ¿CÓMO DESCARGAR? (Paso a paso con capturas)
+## 📖 Cómo descargar (paso a paso con capturas)
 
 ### Paso 1 — Copia la URL del documento
 
-Abre el libro en **Scribd** o la presentación en **SlideShare** con tu navegador y **copia la dirección de la barra de URL** (clic derecho → Copiar, o `Ctrl + C`).
+Abre el libro en **Scribd** o la presentación en **SlideShare** con tu navegador y **copia la URL de la barra de direcciones** (`Ctrl + C` o clic derecho → Copiar dirección del vínculo).
 
 <div align="center">
-  <img src="screenshots/paso-copiar-url.jpg" width="85%" alt="Copiar la URL de una presentación de SlideShare desde el navegador para convertirla a PDF y PPTX" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
-  <br><sub>📍 Copia la URL del navegador (donde dice slideshare.net/... o scribd.com/...)</sub>
+  <img src="screenshots/paso1-copiar-url-navegador.png" width="85%" alt="Copiar la URL de una presentación de SlideShare desde el navegador para convertirla a PDF y PPTX editable" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
+  <br><sub>🔎 Selecciona y copia la URL (slideshare.net/... o scribd.com/...)</sub>
+</div>
+
+<div align="center">
+  <img src="screenshots/paso1-copiar-url-slideshare.png" width="85%" alt="Página de SlideShare abierta en el navegador con la URL del slideshow lista para copiar y convertir a PDF" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
+  <br><sub>✅ Asegúrate de que la URL diga `es.slideshare.net` o `www.scribd.com`</sub>
+</div>
+
+> 💡 **Tip para encontrar libros**: busca en **Google Imágenes** el título del libro + `en scribd`, haz **clic derecho** sobre la portada y elige **«Copiar dirección del vínculo»**: obtienes el enlace directo del documento en Scribd sin siquiera abrirlo.
+
+<div align="center">
+  <img src="screenshots/buscar-libros-scribd-google.png" width="75%" alt="Cómo encontrar libros de Scribd en Google Imágenes y copiar el enlace del documento para descargarlo en PDF" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
+  <br><sub>🧠 Truco pro: clic derecho en Google Imágenes → «Copiar dirección del vínculo»</sub>
 </div>
 
 ### Paso 2 — Pégala en el programa y pulsa EXTRAER
 
-Vuelve a SCRIBD DOWNLOADER PRO, **pega la URL** en el campo superior (`Ctrl + V`) y pulsa el botón **EXTRAER ⚡**. Puedes pegar varias URLs a la vez: la cola las procesa en paralelo.
+Vuelve a **SCRIBD DOWNLOADER PRO**, **pega la URL** en el campo superior (`Ctrl + V`) y pulsa **EXTRAER ⚡**. Puedes pegar varias URLs a la vez: la **cola inteligente** las procesa en paralelo con barra de progreso, ETA y registro interno en vivo.
+
+<div align="center">
+  <img src="screenshots/descarga-slideshare-en-proceso.png" width="88%" alt="Cola de procesos de SCRIBD DOWNLOADER PRO descargando una presentación de SlideShare con barra de progreso y ETA" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
+  <br><sub>⚙️ Cola de procesos: descarga en curso con progreso, ETA y registro interno</sub>
+</div>
 
 ### Paso 3 — Abre tu PDF o PPTX
 
-Al terminar aparece la ficha del documento con portada, autor, páginas y peso. Pulsa **ABRIR PDF** (o **ABRIR PPTX** en SlideShare) y ¡listo! El archivo queda guardado en tu carpeta de descargas.
+Al terminar, la ficha del documento muestra portada, autor, páginas y peso. Pulsa **ABRIR PDF** (y **ABRIR PPTX** en presentaciones de SlideShare) y ¡listo! Los archivos quedan guardados en tu carpeta de descargas.
 
 <div align="center">
-  <img src="screenshots/descarga-completada.jpg" width="85%" alt="Descarga completada en SCRIBD DOWNLOADER PRO: documento extraído con botones ABRIR PDF y carpeta" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
-  <br><sub>✅ Descarga completada: 11 páginas, 1.4 MB, listo para abrir en un solo clic</sub>
+  <img src="screenshots/presentacion-descargada-pptx-pdf.png" width="88%" alt="Presentación de SlideShare descargada como PDF y PPTX editable en SCRIBD DOWNLOADER PRO con botones ABRIR PDF y ABRIR PPTX" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
+  <br><sub>📄 SlideShare entregado en PDF + PowerPoint editable con un solo clic</sub>
+</div>
+
+<div align="center">
+  <img src="screenshots/archivos-descargados-pdf-pptx.png" width="85%" alt="Carpeta de descargas con los archivos PDF y PPTX obtenidos con SCRIBD DOWNLOADER PRO en Windows 11" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
+  <br><sub>📁 Tus archivos verificados en la carpeta de descargas, listos para abrir en Windows</sub>
 </div>
 
 <details>
-<summary>💡 ¿SlideShare sale con verificación anti-bot?</summary>
+<summary>🛡️ ¿SlideShare muestra una verificación anti-bot?</summary>
 
-SlideShare protege su CDN. Si el programa detecta una pantalla de verificación, espera unos segundos y reintenta con el **Modo Visible** activado (menú de configuración). El motor convierte automáticamente las imágenes WebP a JPEG de alta calidad.
+SlideShare protege su CDN. Si el programa detecta una pantalla de verificación, espera unos segundos y reintenta con el **Modo Visible** (menú de configuración). El motor convierte automáticamente las imágenes **WebP → JPEG** de alta calidad. Todo el proceso queda visible en el **REGISTRO** del programa.
+
 </details>
 
 ---
 
-## 🔥 ¿QUÉ PUEDE HACER?
+## 💰 Planes disponibles
 
-SCRIBD DOWNLOADER PRO es la herramienta definitiva para **descargar documentos de Scribd** y **convertir SlideShare a PDF y PPTX** en tu PC, sin límites y sin marcas de agua.
-
-<div style="background-color: #f6f8fa; padding: 15px; border-radius: 8px; border-left: 5px solid #00ccff;">
-
-✅ **Descargas ilimitadas** desde Scribd y SlideShare
-✅ **SlideShare → PPTX editable**: cada presentación se entrega en **PDF + PowerPoint (.pptx)** en un solo pase
-✅ **Extracción automática de metadatos**: título, autor, portada, valoración real y número de páginas
-✅ **Conversión a PDF** sin marcas de agua, verificada página por página
-✅ **Modo demo gratis**: 3 descargas de prueba sin tarjeta (protegido por huella de equipo)
-✅ **Cola inteligente**: pega varias URLs a la vez y descarga en paralelo
-✅ **Interfaz oscura neon** estilo hacker, 100% en español
-✅ **Sin límites** de velocidad ni IP · funciona con Chrome visible o invisible
-
-</div>
-
----
-
-## 📥 DESCARGA RÁPIDA
-
-| Archivo | Descripción |
-| :--- | :--- |
-| 📀 **`Scribd_Downloader_Pro_Setup_v16.0.exe`** | Instalador oficial (recomendado) |
-| 🗜️ **`SCRIBD_DOWNLOADER_PRO_v16.0_PORTABLE.zip`** | Versión portable, sin instalación |
-
-> 👉 **[Descargar desde la página de Releases](https://github.com/Dev-LeviathanTM/Scribd-Downloader-Pro-2026/releases/latest)**
-
----
-
-## 💎 PLANES DISPONIBLES (Pagos en Soles o Internacionales)
+| Plan | Precio | Ideal para | Comprar |
+| :--- | :--- | :--- | :--- |
+| 🟢 **Cliente (1 mes)** | **S/10** | Uso personal, activación inmediata | [![Comprar](https://img.shields.io/badge/Comprar-WhatsApp%20-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/51962829974?text=Quiero%20el%20plan%20Cliente%201%20mes) |
+| 🔵 **Vitalicio** | **S/50** | Uso personal para siempre | [![Comprar](https://img.shields.io/badge/Comprar-WhatsApp%20-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/51962829974?text=Quiero%20el%20plan%20Vitalicio) |
+| 🟡 **Revendedor (3+)** | **S/4 c/u** | Negocio: precio mayorista y panel propio | [![Comprar](https://img.shields.io/badge/Comprar-WhatsApp%20-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/51962829974?text=Quiero%20el%20plan%20Revendedor) |
 
 <div align="center">
-
-| Plan | Precio | Comprar |
-| :--- | :--- | :--- |
-| 📅 **1 Mes (Cliente)** | **S/10** | [![Comprar 1 Mes](https://img.shields.io/badge/Comprar-1%20Mes-00ffff?style=for-the-badge&logo=whatsapp)](https://wa.me/51962829974?text=Quiero%20el%20plan%20de%201%20mes) |
-| ♾️ **Vitalicio (Cliente)** | **S/50** | [![Comprar Vitalicio](https://img.shields.io/badge/Comprar-Vitalicio-ff00ff?style=for-the-badge&logo=whatsapp)](https://wa.me/51962829974?text=Quiero%20el%20plan%20Vitalicio) |
-| 🔥 **Revendedor (3+)** | **S/4 c/u** | [![Comprar Revendedor](https://img.shields.io/badge/Comprar-Revendedor-ffcc00?style=for-the-badge&logo=whatsapp)](https://wa.me/51962829974?text=Quiero%20el%20plan%20Revendedor) |
-
+<img src="screenshots/planes-cliente-licencia.png" width="82%" alt="Modal de pago del plan Cliente: licencia personal con activación inmediata y soporte standard por S/10" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+<br><sub>🟢 Plan Cliente: activación inmediata, 1 dispositivo por licencia</sub>
+<br><br>
+<img src="screenshots/planes-revendedor-licencias.png" width="82%" alt="Modal de pago del plan Revendedor: licencias mayoristas sin vencimiento con panel propio y soporte VIP 24/7" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+<br><sub>🟡 Plan Revendedor: precio desde S/4, licencias sin vencimiento, panel y soporte VIP 24/7</sub>
 </div>
 
-<div align="center">
-  <img src="PORTADA_002.jpg" width="80%" alt="Planes y precios de SCRIBD DOWNLOADER PRO" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-top: 10px;">
-</div>
-
----
-
-## 🌍 PAGOS INTERNACIONALES
-
-🌐 ¿No eres de Perú? Puedes comprar desde **cualquier país** mediante **Hotmart** o **PayPal**.
-
----
-
-## 💬 ¿CÓMO COMPRAR?
+**💳 Pagos**: escanea el QR de la app (Yape / Plin / BBVA / Interbank / Visa / Mastercard / Agora) o paga desde el extranjero con **Hotmart** o **PayPal**. ¿No eres de Perú? Escríbenos y te atendemos en minutos.
 
 <div align="center">
-  <img src="PORTADA_003.jpg" width="80%" alt="Cómo comprar SCRIBD DOWNLOADER PRO por WhatsApp" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-  <br><br>
   <a href="https://wa.me/51962829974" style="display: inline-block; padding: 12px 25px; background-color: #25D366; color: white; text-decoration: none; border-radius: 30px; font-weight: bold; font-size: 1.2rem;">
-    📲 ¡Escríbeme ahora por WhatsApp!
+    💬 ¡Escríbeme ahora por WhatsApp!
   </a>
 </div>
 
----
+### 🎁 ¿Qué incluye tu compra?
 
-## 🤝 ¿QUÉ INCLUYE TU COMPRA?
-
-<div style="background-color: #f6f8fa; padding: 15px; border-radius: 8px; border-left: 5px solid #ffaa00;">
-
-✅ **Instalación** paso a paso en tu laptop
-✅ **Activación** del sistema de licencias (seguro RS256)
-✅ **Panel de control** para revendedores (si aplica)
-✅ **Actualizaciones gratis** mientras tu licencia esté activa
-✅ **Soporte técnico** por si algo falla
-
-</div>
+- ✅ **Instalación y activación** guiadas paso a paso en tu laptop.
+- ✅ **Licencia RS256** firmada criptográficamente e imposible de forjar.
+- ✅ **Actualizaciones gratis** mientras tu licencia esté activa.
+- ✅ **Soporte técnico** real por WhatsApp (24/7).
+- ✅ **Panel de control** para revendedores (plan 3+).
 
 ---
 
-## 🆕 NOVEDADES v16.0
+## ❓ Preguntas frecuentes (FAQ)
 
-- 🆕 **SlideShare → PPTX**: genera PowerPoint editable junto al PDF en la misma descarga
-- 🆕 **Modo demo**: 3 descargas gratis por equipo con protección anti-fraude (huella de equipo: MAC, registro de Windows, CPU/placa/disco)
-- 🛡️ **Licencias RS256**: tokens firmados con criptografía asimétrica — imposible de forjar
-- 🐛 **Fix SlideShare**: conversión automática WebP → JPEG (corrige *"SOI not found in JPEG"*)
-- ⚡ Aviso claro si SlideShare activa verificación anti-bot
+**¿Es gratis?**
+Puedes probarlo con el **demo: 3 descargas gratis** por equipo. Los planes de pago desbloquean descargas ilimitadas.
 
----
+**¿Funciona en Windows 10 y Windows 11?**
+Sí — es su plataforma nativa: **Windows 10 y Windows 11 (64 bits)**. El instalador valida la versión del sistema e instala WebView2 automáticamente si falta.
 
-## ❓ PREGUNTAS FRECUENTES (FAQ)
+**¿Necesito instalar algo más?**
+No. El programa trae todo incluido (motor Chrome embebido). Solo necesitas conexión a internet.
 
-**❓ ¿Es gratis?**
-Sí, puedes probarlo con el **modo demo (3 descargas)**. Los planes de pago desbloquean descargas ilimitadas.
+**¿Qué diferencia hay entre Instalador y Portable?**
+Ninguna en funciones. El **instalador** crea accesos directos y entradas de desinstalación; la **portable** se ejecuta desde cualquier carpeta sin instalar nada.
 
-**❓ ¿Funciona en Windows 10 y 11?**
-Sí, compatible con **Windows 10 y Windows 11** (64 bits).
+**¿Puedo usarlo en varias PC?**
+El plan Cliente es para **1 equipo**; el plan **Revendedor** permite activar múltiples equipos con precio mayorista.
 
-**❓ ¿Necesito instalar algo más?**
-No. El programa trae todo incluido (motor Chrome embebido). Solo necesitas una conexión a internet.
-
-**❓ ¿Qué diferencia hay entre Instalador y Portable?**
-Ninguna en funciones. El **instalador** crea accesos directos; la **portable** se ejecuta desde cualquier carpeta sin instalar.
-
-**❓ ¿Puedo usarlo en varias PC?**
-Depende del plan: el plan mensual/vitalicio es para **1 equipo**; el plan **revendedor** permite activar varios equipos.
-
-**❓ ¿Por qué Windows muestra un aviso al abrirlo?**
+**¿Por qué Windows muestra un aviso al abrirlo?**
 Es normal: los programas independientes sin certificado comercial activan el SmartScreen. Pulsa **Más información → Ejecutar de todos modos**.
 
+**¿Puedo descargar cualquier documento?**
+Úsalo con contenido del que seas propietario, con fines de estudio personal o con documentos disponibles para ti. El usuario es responsable del uso que dé al programa.
+
 ---
 
-## 🛠️ TECNOLOGÍAS
+## 🛡️ Seguridad y licencias
+
+- 🔐 **Licencias RS256**: tokens firmados con criptografía asimétrica y verificados contra el servidor oficial — imposibles de copiar o forjar.
+- 🖐️ **Huella de equipo**: la demo se liga a tu PC (MAC, registro de Windows, hardware) para evitar el fraude.
+- 🧬 **Código protegido**: el motor de extracción se empaqueta **ofuscado** (javascript-obfuscator: selfDefending + transformObjectKeys) y la app principal está compilada como **binario nativo Rust** — el código fuente nunca se distribuye.
+- 🚪 **Firewall inteligente**: el instalador agrega la regla de red necesaria para el motor embebido y la desinstala al eliminar el programa.
+
+---
+
+## ⚙️ Requisitos del sistema
+
+| Requisito | Mínimo |
+| :--- | :--- |
+| **Sistema operativo** | Windows 10 (x64) o Windows 11 (x64) |
+| **Procesador** | Cualquier CPU x86-64 de doble núcleo o superior |
+| **Memoria RAM** | 4 GB recomendados |
+| **Internet** | Conexión estable (el motor usa Chrome en segundo plano) |
+| **Extra** | Ninguno — WebView2 se instala automáticamente |
+
+---
+
+## 🛠️ Tecnologías
 
 <div align="center">
 
 ![Tauri](https://img.shields.io/badge/Tauri-2.0-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-1.98-000000?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-nativo-000000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-25-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-embebido-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-Chrome-4088F0?style=flat-square&logo=googlechrome&logoColor=white)
 ![PDF-lib](https://img.shields.io/badge/pdf--lib-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)
+![NSIS](https://img.shields.io/badge/NSIS-instalador-00467F?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-> ⚠️ **AVISO IMPORTANTE:** Este repositorio contiene únicamente el **ejecutable compilado** y la documentación. El código fuente es **privado** para proteger el sistema de licencias. Úsalo únicamente con contenido del que seas propietario o con fines de estudio personal.
+> ⚖️ **AVISO IMPORTANTE:** Este repositorio distribuye únicamente el **ejecutable compilado** y la documentación. El código fuente es **privado** para proteger el sistema de licencias. Úsalo únicamente con contenido del que seas propietario o con fines de estudio personal.
 
 ---
 
 <div align="center">
 
-**🔎 Términos de búsqueda:** *descargar libros de Scribd* · *Scribd downloader* · *SlideShare a PDF* · *descargar presentaciones de SlideShare* · *SlideShare a PowerPoint* · *bajar documentos de Scribd gratis* · *convertir SlideShare a PPTX* · *SCRIBD DOWNLOADER PRO 2026* · *descargar Scribd gratis Windows* · *pasar SlideShare a PowerPoint* · *lector de libros en PDF*
+**🔑 Términos de búsqueda:** *descargar libros de Scribd* · *Scribd downloader* · *Scribd a PDF* · *descargar documentos de Scribd gratis* · *SlideShare a PDF* · *SlideShare a PowerPoint* · *convertir SlideShare a PPTX* · *descargar presentaciones de SlideShare* · *bajar libros en PDF* · *descargar Scribd Windows 10* · *descargar Scribd Windows 11* · *SCRIBD DOWNLOADER PRO 2026* · *lector de libros en PDF* · *herramienta español*
 
-🚀 Desarrollado con ❤️ para la comunidad hispanohablante
+📜 Desarrollado con ❤️ para la comunidad hispanohablante · [Releases](https://github.com/Dev-LeviathanTM/Scribd-Downloader-Pro-2026/releases/latest) · [Issues](https://github.com/Dev-LeviathanTM/Scribd-Downloader-Pro-2026/issues)
 
 </div>
