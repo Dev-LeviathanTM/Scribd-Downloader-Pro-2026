@@ -4,7 +4,7 @@
 
 ### ⚡ Descarga libros de **Scribd** y presentaciones de **SlideShare** en **PDF y PPTX editables** — para **Windows 10 y 11**
 
-![Versión](https://img.shields.io/badge/version-16.3.19-00ffff?style=for-the-badge&logo=windows&logoColor=white)
+![Versión](https://img.shields.io/badge/version-16.3.20-00ffff?style=for-the-badge&logo=windows&logoColor=white)
 ![Release](https://img.shields.io/github/v/release/Dev-LeviathanTM/Scribd-Downloader-Pro-2026?style=for-the-badge&label=release&color=ff00ff)
 ![Windows](https://img.shields.io/badge/windows-10%20%2F%2011-0078d6?style=for-the-badge&logo=windows&logoColor=white)
 ![Español](https://img.shields.io/badge/idioma-Espa%C3%B1ol-00ff66?style=for-the-badge)
@@ -15,7 +15,7 @@
 
 <img src="screenshots/interfaz-principal-biblioteca.png" width="88%" alt="Interfaz principal de SCRIBD DOWNLOADER PRO: descargador de Scribd y SlideShare a PDF y PPTX para Windows 10 y 11" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
 
-<sub>🖥️ Interfaz principal v16.3.19 — modo oscuro neon, 100% en español, biblioteca con portadas verificadas</sub>
+<sub>🖥️ Interfaz principal v16.3.20 — modo oscuro neon, 100% en español, biblioteca con portadas verificadas</sub>
 
 </div>
 
@@ -44,8 +44,11 @@
 
 ---
 
-## ✨ Novedades v16.3.19
+## ✨ Novedades v16.3.20
 
+- 🖥️ **Guardado en tu Escritorio** — por defecto los libros se guardan en `Escritorio \ SCRIBD DOWNLOADER PRO` (carpeta creada automáticamente). Si una ruta guardada pertenece al perfil de **otro usuario de Windows**, el programa la detecta y restaura la tuya en el acto.
+- 📂 **Selector de carpeta nativo** — botón 📂 en *Carpeta de Guardado*: abre el explorador de Windows para elegir dónde guardar; también puedes escribir la ruta y pulsar ✔ (Enter también guarda).
+- 🐛 **«Ver Descargas» reparado** — el botón ahora abre exactamente tu carpeta de guardado en el explorador (antes no respondía).
 - 🖼️ **Vista Grid solo portadas** — la biblioteca en modo cuadrícula muestra únicamente las portadas en gran formato: toca cualquier portada para abrir la vista previa del documento.
 - ✅ **Instalador inteligente Win10/11** — el instalador declara `MinVersion 10.0`: protege tu PC rechazando sistemas no compatibles e instala WebView2 en silencio si falta.
 - 🎨 **Interfaz más limpia** — se eliminaron todas las animaciones de luz en bucle del encabezado, botones y modales.
@@ -65,7 +68,7 @@ Elige **una sola** de estas dos formas. No necesitas saber de programación.
 ### ✅ OPCIÓN A — Instalador (recomendada)
 
 1. Entra a la página de **[Descargas oficiales](https://github.com/Dev-LeviathanTM/Scribd-Downloader-Pro-2026/releases/latest)**.
-2. En la sección *Assets*, descarga el archivo **`Scribd_Downloader_Pro_Setup_v16.3.19_x64.exe`**.
+2. En la sección *Assets*, descarga el archivo **`Scribd_Downloader_Pro_Setup_v16.3.20_x64.exe`**.
 3. Haz **doble clic** sobre el `.exe` descargado.
 4. Si Windows muestra el aviso de SmartScreen: **Más información → Ejecutar de todos modos** (es normal en apps independientes).
 5. Sigue el asistente: **Siguiente → Siguiente → Instalar → Finalizar**.
@@ -77,9 +80,9 @@ Elige **una sola** de estas dos formas. No necesitas saber de programación.
 
 Ideal para USB, PC prestada o sin permisos de administrador.
 
-1. En la página de Releases, descarga **`SCRIBD_DOWNLOADER_PRO_v16.3.19_PORTABLE.zip`**.
+1. En la página de Releases, descarga **`SCRIBD_DOWNLOADER_PRO_v16.3.20_PORTABLE.zip`**.
 2. Clic derecho → **Extraer todo… → Extraer**.
-3. Entra a la carpeta extraída y ejecuta **`SCRIBD_DOWNLOADER_PRO_v16.3.19.exe`**.
+3. Entra a la carpeta extraída y ejecuta **`SCRIBD_DOWNLOADER_PRO_v16.3.20.exe`**.
 4. *(Opcional)* Clic derecho → **Enviar a → Escritorio (crear acceso directo)**.
 
 > 🤔 **¿Cuál elijo?** Si es tu PC personal → **Opción A**. Si es una PC temporal o pendrive → **Opción B**.
@@ -142,7 +145,7 @@ Vuelve a **SCRIBD DOWNLOADER PRO**, **pega la URL** en el campo superior (`Ctrl 
 
 ### Paso 3 — Abre tu PDF o PPTX
 
-Al terminar, la ficha del documento muestra portada, autor, páginas y peso. Pulsa **ABRIR PDF** (y **ABRIR PPTX** en presentaciones de SlideShare) y ¡listo! Los archivos quedan guardados en tu carpeta de descargas.
+Al terminar, la ficha del documento muestra portada, autor, páginas y peso. Pulsa **ABRIR PDF** (y **ABRIR PPTX** en presentaciones de SlideShare) y ¡listo! Por defecto los archivos quedan en **`Escritorio \ SCRIBD DOWNLOADER PRO`** (puedes cambiar la carpeta con el botón 📂 de *Carpeta de Guardado*).
 
 <div align="center">
   <img src="screenshots/presentacion-descargada-pptx-pdf.png" width="88%" alt="Presentación de SlideShare descargada como PDF y PPTX editable en SCRIBD DOWNLOADER PRO con botones ABRIR PDF y ABRIR PPTX" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
@@ -151,7 +154,7 @@ Al terminar, la ficha del documento muestra portada, autor, páginas y peso. Pul
 
 <div align="center">
   <img src="screenshots/archivos-descargados-pdf-pptx.png" width="85%" alt="Carpeta de descargas con los archivos PDF y PPTX obtenidos con SCRIBD DOWNLOADER PRO en Windows 11" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);">
-  <br><sub>📁 Tus archivos verificados en la carpeta de descargas, listos para abrir en Windows</sub>
+  <br><sub>📁 Tus libros verificados en <code>Escritorio \ SCRIBD DOWNLOADER PRO</code>, listos para abrir en Windows</sub>
 </div>
 
 <details>
